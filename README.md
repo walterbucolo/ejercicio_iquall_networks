@@ -10,11 +10,11 @@ ser agregadas si se requiere. Por ejemplo, si hay un punto o una coma al final d
 de la palabra (carta.)
 
 El proceso queda explicados dentro del metodo main, los pasos son:
-1- Mostrar el articulo
-2- Pedir al usuario que escriba una palabra o frase
-3- Validar
+- 1- Mostrar el articulo
+- 2- Pedir al usuario que escriba una palabra o frase
+- 3- Validar
     - Si es valida 
-        3.a.1- Finalizar el proceso
+        - 3.a.1- Finalizar el proceso
     - Si es invalida
-        3.b.1- Mostrar palabras incorrectas
-        3.b.2- Preguntar al usuario si quiere volver a comenzar
+        - 3.b.1- Mostrar palabras incorrectas
+        - 3.b.2- Preguntar al usuario si quiere volver a comenzar
